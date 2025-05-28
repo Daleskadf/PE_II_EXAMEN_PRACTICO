@@ -20,7 +20,7 @@ Durante esta práctica, se han implementado las siguientes mejoras significativa
 Se ha integrado un nuevo ítem en el dashboard principal que permite al usuario acceder directamente a la visualización interactiva del Resumen Ejecutivo del PETI.
 
 **Captura de Pantalla - Dashboard con acceso al Resumen Ejecutivo:**
-![](https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO/Captura1.png)
+![](https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO/Captura1.PNG)
 *Descripción:* Dashboard principal de la aplicación PETI, destacando el nuevo acceso al módulo "12. RESUMEN EJECUTIVO".
 
 ### 2. Interfaz de Visualización Dinámica y Moderna del Resumen Ejecutivo
