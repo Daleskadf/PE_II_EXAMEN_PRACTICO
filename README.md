@@ -1,9 +1,9 @@
 # Examen Práctica Unidad II - PETI
 
-**Alumno:** [TU_NOMBRE_COMPLETO]
-**Fecha de Entrega:** [FECHA_ENTREGA]
+**Alumno:** Daleska Nicolle Fernandez Villanueva
+**Fecha de Entrega:** 28/05/2025
 
-**URL del Repositorio Github:** [URL_DEL_REPOSITORIO_GITHUB]
+**URL del Repositorio Github:** : https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO
 
 ---
 
@@ -20,7 +20,7 @@ Durante esta práctica, se han implementado las siguientes mejoras significativa
 Se ha integrado un nuevo ítem en el dashboard principal que permite al usuario acceder directamente a la visualización interactiva del Resumen Ejecutivo del PETI.
 
 **Captura de Pantalla - Dashboard con acceso al Resumen Ejecutivo:**
-![](https://raw.githubusercontent.com/Daleskadf/PE_II_EXAMEN_PRACTICO/master/Captura1.png)
+![](https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO/Captura1.png)
 *Descripción:* Dashboard principal de la aplicación PETI, destacando el nuevo acceso al módulo "12. RESUMEN EJECUTIVO".
 
 ### 2. Interfaz de Visualización Dinámica y Moderna del Resumen Ejecutivo
@@ -32,7 +32,7 @@ Se ha desarrollado una nueva interfaz para el Resumen Ejecutivo que transforma l
 *   **Efectos Visuales Sutiles:** Se han incorporado efectos al pasar el cursor para mejorar la experiencia de usuario.
 
 **Captura de Pantalla - Vista General del Resumen Ejecutivo Interactivo:**
-![](https://raw.githubusercontent.com/Daleskadf/PE_II_EXAMEN_PRACTICO/master/Captura2.png)
+(https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO/Captura2.png)
 *Descripción:* Interfaz del Resumen Ejecutivo mostrando la información de la empresa, misión, visión y la sección de objetivos estratégicos. Se aprecia el diseño con cabeceras azules y contenido colapsable.
 
 ### 3. Campos Editables para Estrategia y Conclusiones
@@ -44,7 +44,7 @@ Para permitir la entrada o modificación directa de ciertos análisis cualitativ
 *   Los `textarea` cuentan con auto-ajuste de altura para una mejor experiencia de edición.
 
 **Captura de Pantalla - Campos Editables y Análisis FODA:**
-![](https://raw.githubusercontent.com/Daleskadf/PE_II_EXAMEN_PRACTICO/master/Captura3.png)
+![](https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO/Captura3.png)
 *Descripción:* Continuación de la vista del Resumen Ejecutivo, mostrando el Análisis FODA y las secciones editables para "Identificación de Estrategia" y "Conclusiones", donde el usuario puede escribir.
 
 ### 4. Funcionalidad de Exportación a PDF
@@ -56,11 +56,6 @@ Se ha integrado la capacidad de exportar el contenido completo del Resumen Ejecu
 *   **Retroalimentación al Usuario:** Se muestra un mensaje de "Generando PDF..." durante el proceso.
 
 **Captura de Pantalla - Ejemplo de PDF Generado:**
-![](https://raw.githubusercontent.com/Daleskadf/PE_II_EXAMEN_PRACTICO/master/Captura4.png)
+![](https://github.com/Daleskadf/PE_II_EXAMEN_PRACTICO/Captura4.png)
 *Descripción:* Visualización del archivo PDF generado a partir del Resumen Ejecutivo, mostrando la estructura y el contenido exportado fielmente.
 
----
-
-## Tecnologías Utilizadas
-(Resto del README.md sin cambios)
-...
